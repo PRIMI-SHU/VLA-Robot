@@ -6,4 +6,4 @@
 ![Current VLA architecture](VLA.jpg)   
 
 
-4. Note that you should request the access for LLama model from huggingface: https://huggingface.co/meta-llama/Llama-3.2-1B
+3. Note that you should request the access for LLama model from huggingface: https://huggingface.co/meta-llama/Llama-3.2-1B
